@@ -24,7 +24,7 @@
 ```python
 class CaptainStark:
     name       = "Akky Yadav"
-    alias      = ["Captain", "Stark"]
+    alias      = ["CaptainStark"]
     degree     = "BTech — Robotics & AI (Year 1)"
     
     passion    = "Humanoid Robots & Manipulation Systems"
@@ -126,8 +126,8 @@ class CaptainStark:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-akkyyadav@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akkyyadav@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akky_Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akkyyadav)
+[![Email](https://img.shields.io/badge/Email-akkyyadav6911@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akkyyadav6911@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akky_Yadav-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akky-yadav-56a169358/)
 [![Twitter](https://img.shields.io/badge/Twitter-@CaptainStark-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CaptainStark)
 
 *Open to research internships, collaborations, and robotics hackathons!*
